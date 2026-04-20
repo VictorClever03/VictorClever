@@ -33,45 +33,39 @@
   </tr>
 </table>
 
-## My Skills
+## 🚀 My Skills
 
-#### Main Stack:
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1e1e1e?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e1e1e?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+---
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-1e1e1e?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-1e1e1e?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
+---
 
+### 🧠 Other Knowledge
+![MySQL](https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-#### Studying in this moment:
+---
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-
-
-
-#### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=FF4500)&nbsp;
 
 &nbsp;
 &nbsp;
