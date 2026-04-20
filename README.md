@@ -35,7 +35,6 @@
 
 ## 🚀 My Skills
 
----
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,7 +45,6 @@
 ![Vite](https://img.shields.io/badge/Vite-1e1e1e?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 
 
@@ -69,8 +67,6 @@
 ![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-
-## Contacts:
 
 ## 📫 Contacts
 
