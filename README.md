@@ -64,16 +64,11 @@
 ### 🧠 Other Knowledge
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-1e1e1e?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FCC624)
 
----
-
-&nbsp;
-&nbsp;
 
 ## Contacts:
 
@@ -84,16 +79,3 @@
 </div>&nbsp;&nbsp;
 
  ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
-
-
-  
-
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VictorClever03}/count.svg" /></p> 
-<br></div>
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>****
