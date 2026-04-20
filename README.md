@@ -48,7 +48,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
----
+
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -59,7 +59,7 @@
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
----
+
 
 ### 🧠 Other Knowledge
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -72,10 +72,22 @@
 
 ## Contacts:
 
-<div> 
-<a href="https://wa.me/+244929633505" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+## 📫 Contacts
+
+<div align="center"> 
+
+<a href="https://wa.me/+244929633505" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-1e1e1e?style=for-the-badge&logo=whatsapp&logoColor=25D366">
 </a>
- 
-</div>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/victor-nanga-a16189263/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="mailto:victornanga727@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
+
+</div>
 
  ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
