@@ -1,8 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FC8E28&width=435&lines=Hello+people+%F0%9F%91%8B!;My+name+is+Victor+Nanga+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
+
+---
+
 <div align="center">
   <img src="./banner.jpg" alt="Victor Nanga Banner" width="100%" />
 </div>
-#
+
+## 👨🏻‍💻 &nbsp;Sobre mim
+- 🎓 Cadete na 42 Luanda, focado em engenharia de software e programação de baixo nível (C/C++).
+- 💻 Desenvolvedor fullstack em evolução, construindo base sólida em sistemas e desenvolvimento de software.
+- 🚀 Movido por curiosidade, disciplina e aprendizagem constante.
+- ⚙️ Escrevo código com foco em clareza, eficiência e mentalidade de engenharia.
+
+---
+
 <h3 align="center">⚡ Victor Nanga | GitHub Overview</h3>
 
 <table align="center">
