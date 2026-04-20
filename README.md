@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FC8E28&width=435&lines=Hello+people+%F0%9F%91%8B!;My+name+is+Victor+Nanga+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+from+Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorClever03&show_icons=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=c9d1d9&bg_color=0d1117" alt="Victor Clever github stats" /> 
