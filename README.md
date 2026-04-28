@@ -38,7 +38,6 @@
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1e1e?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-1e1e1e?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1e1e1e?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
@@ -51,7 +50,6 @@
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-1e1e1e?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1e1e1e?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-1e1e1e?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Prisma](https://img.shields.io/badge/Prisma-1e1e1e?style=for-the-badge&logo=prisma&logoColor=2D3748)
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white)
@@ -64,7 +62,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
